@@ -1,27 +1,48 @@
-# 💫 About Me:
-## 👨‍💻 About Me – AI Engineer (Fresher)<br><br>🔭 **I’m currently working on**  <br>- 🤖 Generative AI (GenAI) and AI Agent-based projects  <br>- 📊 Data analysis and Machine Learning using Python  <br>- 🧠 Building intelligent automation systems using LLM workflows  <br><br>👯 **I’m looking to collaborate on**  <br>- 🌐 Open-source AI / GenAI projects  <br>- 🤝 AI Agent and automation-based applications  <br>- 📁 Real-world Machine Learning and data science projects  <br><br>🤝 **I’m looking for help with**  <br>- 🚀 Deploying AI/GenAI applications in production  <br>- 🔗 LLM orchestration and Agentic AI workflows  <br>- 📈 Model optimization and scalable AI architectures  <br><br>🌱 **I’m currently learning**  <br>- 🤖 Generative AI (LLMs & Prompt Engineering)  <br>- 🧩 AI Agents and Agentic AI architectures  <br>- 🔬 Deep Learning fundamentals  <br>- 📊 Feature engineering and model evaluation  <br>- ⚙️ Advanced Python for AI development  <br><br>💬 **Ask me about**  <br>- 🐍 Python programming  <br>- 📊 Data preprocessing and analysis  <br>- 🤖 Machine Learning fundamentals  <br>- 🧠 Beginner-level Generative AI concepts  <br><br>🛠️  🎯 I believe in consistency, disciplined learning, and building real-world projects to grow as an AI Engineer.
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya__5756) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-pujari19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityavpujari@gmail.com) 
-# 💻 Tech Stack:
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-<!-- Snake Game Repo View -->
+# 👨‍💻 Aditya Vijay Pujari
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+🤖 AI Engineer (Fresher) | Deep Learning | LLM | AI Agents | Python
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aditya-Pujari-9518&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aditya-Pujari-9518&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Pujari-9518&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aditya-Pujari-9518&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I am an aspiring AI Engineer with hands-on experience in **Deep Learning, Generative AI, and AI Agent-based applications**.  
+I enjoy building real-world AI projects and learning modern AI technologies.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aditya-Pujari-9518&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠 Skills
+
+🐍 Python • 🤖 Machine Learning • 🧠 Deep Learning • 📊 NLP  
+⚡ Generative AI • 🔗 LLMs • 🤖 AI Agents • 🌐 Streamlit  
+📦 TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy  
+🛠 Git • GitHub • Docker • SQL
+
+---
+
+## 🚀 Projects
+
+### 🤖 AI Customer Support Agent with Memory  
+(Python, OpenAI, Streamlit, Qdrant, RAG)  
+• Built AI agent with long-term memory using vector database  
+• Developed real-time chat interface using LLM  
+🔗 https://github.com/Aditya-Pujari-9518/ai_customer_support_agent  
+
+### 📄 AI Resume Parser & Job Matcher  
+(Python, NLP, spaCy)  
+• Developed NLP-based resume parser for data extraction  
+• Implemented skill matching and similarity scoring  
+
+---
+
+## 📚 Currently Learning
+
+🤖 Generative AI  
+🧠 Deep Learning  
+⚙️ AI Agents  
+🔗 LLM Workflows  
+📈 Model Optimization  
+
+---
+
+## 📫 Contact
+
+✉️ Email: adityavpujari@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/aditya-pujari19  
+💻 GitHub: https://github.com/Aditya-Pujari-9518
